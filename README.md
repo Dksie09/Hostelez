@@ -1,11 +1,11 @@
 # Hostelez
 A window-based application that aims at making hostel life less troublesome by managing hostel-related complaints in a less arduous and more reliable way.
 
-##Tech Used:
+## Tech Used:
 • UI: Swing  and Awt
 • Database: Arrays and ArrayList
 
-##About
+## About
 Our project has two sides - 
 •	the user end, and 
 •	the admin end.
