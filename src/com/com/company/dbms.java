@@ -9,9 +9,9 @@ public class dbms {
     static ArrayList<String> id = new ArrayList<String>(Arrays.asList("E21CSEU0268@bennett.edu.in","E21CSEU0269@bennett.edu.in","E21CSEU0270@bennett.edu.in"));
     static ArrayList<String> pswd = new ArrayList<String>(Arrays.asList("Dakshi","Drake","Dracula"));
 
-    static ArrayList<String> admin_name = new ArrayList<String>(Arrays.asList("Deepanshi"));
-    static ArrayList<String> admin_id = new ArrayList<String>(Arrays.asList("deepanshi@bennett.edu.in"));
-    static ArrayList<String> admin_pswd = new ArrayList<String>(Arrays.asList("Deepanshi"));
+    static ArrayList<String> admin_name = new ArrayList<String>(Arrays.asList("Admin1"));
+    static ArrayList<String> admin_id = new ArrayList<String>(Arrays.asList("Admin1@bennett.edu.in"));
+    static ArrayList<String> admin_pswd = new ArrayList<String>(Arrays.asList("Admin1"));
 
     static ArrayList<Integer> comp_no = new ArrayList<Integer>();
     static ArrayList<String> dscrptn = new ArrayList<String>();
