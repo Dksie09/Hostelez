@@ -1,5 +1,5 @@
 # Hostelez
-A window-based application that aims at making hostel life less troublesome by managing hostel-related complaints in a less arduous and more reliable way.
+A window-based application that aims at making hostel life less troublesome by managing hostel-related complaints in a less arduous and more reliable way using C++.
 
 ### About
 Our project has two sides 
